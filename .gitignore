@@ -1,0 +1,31 @@
+# Folders
+bin/
+obj/
+.dotnet/
+.nuget/
+.packages/
+.tools/
+.vs/
+
+# File extensions
+*.aps
+*.binlog
+*.dll
+*.DS_Store
+*.exe
+*.idb
+*.lib
+*.log
+*.pch
+*.pdb
+*.pidb
+*.psess
+*.res
+*.snk
+*.so
+*.suo
+*.svclog
+*.tlog
+*.user
+*.userprefs
+*.vspx
