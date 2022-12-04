@@ -1,4 +1,5 @@
 ﻿using LoginController.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace LoginController.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -20,6 +22,8 @@ namespace LoginController.Controllers
 
         public IActionResult Index()
         {
+            var userMail = User.Identity.Name;
+            ViewBag.userMail = userMail;
             return View();
         }
 
