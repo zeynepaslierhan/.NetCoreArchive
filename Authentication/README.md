@@ -8,15 +8,20 @@
 
 .Net Core Projelerinde kullanılan Authentication işlemleri için oluşturulmuş bir bölümdür.
 
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/gifs/developer.gif" align="right">
+
 ## İçindekiler
 
 1. [Controller Seviyesinde Login İşlemi](https://github.com/zeynepaslierhan/.NetCoreArchive/edit/main/Authentication/README.md#controller-seviyesinde-login-i%CC%87%C5%9Flemi)
 
 2. Identity Kütüphanesi ile Login İşlemi (***Yakında...***)
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/gifs/developer.gif" align="right">
+<a href="https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Authentication%20Practices.jpg" align="left" height="95"> </a> 
+
 
 ## 💻Controller Seviyesinde Login İşlemi 
+
+İlk olarak startup dosyasının içersine gerekli kod blokları eklenip sonrasında Login/Logout işlemlerini yapan methodların içerisine ilgili kodlar yerleştirilir. Login işlemleri için yeni bir controller oluşturulmasının sebebi daha düzenli durması içindir. Buradaki amaç gerekli işlemleri yapan methodların nerede yazıldığını bilmektir. Aşağıdaki aşamaları takip ederek veya [youtube'da paylaştığım videoyu :clapper: ](https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB) takip ederek *Controller Seviyesinde Login* işlemlerini sağlayabilirsiniz.
 
 1. **Startup dosyasında gerekli olan kodlar:**
   
@@ -24,7 +29,7 @@
       public void ConfigureServices(IServiceCollection services)
     ```
 
-    İlk olarak yukarıdaki Methodun içerisine aşağıdaki kod eklenir:
+    📌 İlk olarak yukarıdaki Methodun içerisine aşağıdaki kod eklenir:
 
     ```c#
     services.AddMvc(config =>
@@ -43,7 +48,7 @@
             });
     ```
 
-    İkinci olarak startup dosyasının içerisine aşağıdaki kod direkt eklenir.
+    📌 İkinci olarak startup dosyasının içerisine aşağıdaki kod direkt eklenir.
 
     ```c#
     app.UseAuthentication();
@@ -54,7 +59,7 @@
 
    1. **Login/Signin işlemi**
 
-    Login işlemi için ilgili method içerisine yazılır:
+    📌 Login işlemi için ilgili method içerisine yazılır:
 
     ```c#
     Context c = new Context();
@@ -79,7 +84,8 @@
     ```
 
    2. **LogOut/SignOut işlemi**
-    Login işlemi için ilgili method içerisine yazılır:
+    
+    📌 LogOut işlemi için ilgili method içerisine yazılır:
 
     ```c#
     public async Task<IActionResult> LogOut()
