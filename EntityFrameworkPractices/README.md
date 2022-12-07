@@ -6,4 +6,6 @@
   <br>
 </h1>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Giri%C5%9F.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/gifs/computer.gif" align="right">
+
+.Net Core projelerinde kullanılan Entity Framework işlemleri için oluşturulmuş bir bölümdür.
