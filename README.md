@@ -43,14 +43,14 @@
 
   > Bu kısımda giriş ve çıkış yapma (Login-Signin/LogOut-SignOut) ve giriş yapan kişinin bilgilerinin yansıtılması işlemleri vardır.
 
-2. [ :computer: PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews/PartialViewPractices)
+2. [ :computer: PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews)
 
 	 - [x] [PartialView oluşturma :clapper:](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
 	 - [ ] PartialView kullanımı örnekleri :clapper:
 	
   > Bu kısımda PartialView oluşturma ve partialView'lar ile yapılabilecek işlemler vardır. 
 
-3. [ :computer: ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents/ViewComponentPractices)
+3. [ :computer: ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents)
 
 	 - [x] [ViewComponent oluşturma :clapper: ](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
 	 - [ ] ViewComponent kullanımı örnekleri :clapper:
@@ -59,7 +59,7 @@
 
 ### Veritabanı İşlemleri
 
-1. :computer: [EntityFramework işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/EntityFrameworkPractices/EntityFrameworkPractices1)
+1. :computer: [EntityFramework işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/EntityFrameworkPractices)
 	
 	 - [x] [Veritabanına bağlanma ve Migration işlemleri :clapper: ](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3)
 	 - [ ] Linq kullanımı örnekleri :clapper:
