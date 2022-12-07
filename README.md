@@ -49,8 +49,10 @@
 
 ### Veritabanı İşlemleri
 
-1. :computer: EntityFramework işlemleri 
+1. :computer: [EntityFramework işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/EntityFrameworkPractices/EntityFrameworkPractices1)
 	
+	 - [x] [Veritabanına bağlanma ve Migration işlemleri :clapper: ](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3)
+	 - [ ] Linq kullanımı örnekleri :clapper:
 
 ### Front End İşlemleri
 
