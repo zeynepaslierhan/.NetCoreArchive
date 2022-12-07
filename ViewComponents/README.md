@@ -6,4 +6,7 @@
   <br>
 </h1>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Giri%C5%9F.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Kaynak%C3%A7a.gif" align="right">
+
+
+.Net Core projelerinde kullanılan ViewComponent işlemleri için oluşturulmuş bir bölümdür.
