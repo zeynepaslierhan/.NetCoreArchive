@@ -1,63 +1,80 @@
-# .NetCoreArchive
+<h1 align="center">
+  <br>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <br>
+  . Net Core Archive
+  <br>
+</h1>
 
-.Net Core Archive serisinde .Net sitelerinde kullandığım veya kullanabileceğim her türlü kod bloğunu, methodu, fonksiyonu en basit ve saf halleriyle bulabilirsiniz.
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Giri%C5%9F.gif" align="right">
+
+.Net Core Archive serisinde .Net sitelerinde kullandığım veya kullanabileceğim her türlü kod bloğunu, methodu, fonksiyonu en basit ve saf halleriyle bulabilirsiniz. 
+
+*Şuan için kullanılan .Net Core 5.0 versiyonudur.*
 
 .Net Core Archive serisinin kodların yapılışını incelemek için [.NET Core Archive](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M) serisine bakabilirsiniz.
 
+Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
 
-## Back-end
-
-<details open>
-<summary>PartialView</summary>
-
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/PartialView%20Practices.jpg" width="200" alt="Entity Framework Practices"/>
-
-**Proje türü:** ASP.NET Core Web App (Model-View-Controller) // .Net Core 5.0
-
-[***PartialView Pratiklerinin Kodlarını buradan inceleyebilirsiniz***](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews/PartialViewPractices)
-
-### PartialView İşlemleri:
-
-* [PartialView Oluşturma](https://www.youtube.com/watch?v=XGUQSzAj4DE)
-
-</details>
-
-<details open>
-<summary>ViewComponent</summary>
-
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/ViewComponent%20Practices.jpg" width="200" />
-
-**Proje türü:** ASP.NET Core Web App (Model-View-Controller) // .Net Core 5.0
-
-[***ViewComponent Pratiklerinin Kodlarını buradan inceleyebilirsiniz***](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents/ViewComponentPractices)
-
-### ViewComponent İşlemleri:
-
-* [ViewComponent Oluşturma](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=1)
-
-</details>
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=.NetCorePractices)](https://github.com/zeynepaslierhan/.NetCorePractices)
 
 
-## Veritabanı
 
-<details open>
-<summary>Entity Framework</summary>
+---
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Entity%20Framework%20Practices.jpg" width="200" />
+## .Net Core Archive İçeriği
 
-**Proje türü:** ASP.NET Core Web App (Model-View-Controller) // .Net Core 5.0
+### Back End İşlemleri
 
-[***Entity Framework Pratiklerinin Kodlarını buradan inceleyebilirsiniz***](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/EntityFrameworkPractices/EntityFrameworkPractices1)
+1.  [ Kimlik Doğrulama (Authentication) işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
 
-### Entity Framework İşlemleri:
+	- [x]  [Controller Seviyesinde Login İşlemi](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication/LoginController)
+	- [ ] Identity Kütüphanesi ile Login İşlemi 
 
-* [Veritabanı Bağlantısı ve Migration](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3)
+  > Bu kısımda giriş ve çıkış yapma (Login-Signin/LogOut-SignOut) ve giriş yapan kişinin bilgilerinin yansıtılması işlemleri vardır.
 
-</details>
+2. [ PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews/PartialViewPractices)
 
+	 - [x] [PartialView oluşturma](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] PartialView kullanımı örnekleri 
+	
+  > Bu kısımda PartialView oluşturma ve partialView'lar ile yapılabilecek işlemler vardır. 
 
+3. [ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents/ViewComponentPractices)
+
+	 - [x] [ViewComponent oluşturma ](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] ViewComponent kullanımı örnekleri
+	
+  > Bu kısımda ViewComponent oluşturma ve ViewComponent ile yapılabilecek işlemler vardır.
+
+### Veritabanı İşlemleri
+
+1. EntityFramework işlemleri 
+	
+
+### Front End İşlemleri
+
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/exploding-head-laptop-computers.gif" align="left" height="75">
+
+*Yakında..* 
+
+</br>
+</br>
+</br>
+
+<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Kaynak%C3%A7a.gif" align="right">
 
 ## Kaynakça
+
 1. [Gençay Yıldız, Youtube Serileri](https://www.youtube.com/playlist?list=PLQVXoXFVVtp33KHoTkWklAo72l5bcjPVL)
 2. [Kenan Yıldırım, Youtube Serileri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp)
 3. [Murat Yücedağ, Youtube Serileri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci)
+
+
+---
+## İletişim
+
+:fa-envelope-o:  softwaredeveloperarchive@gmail.com
+:fa-instagram: [@softwaredeveloperarchive](https://www.instagram.com/softwaredeveloperarchive/)
+
+
