@@ -14,7 +14,7 @@
 
 .Net Core Archive serisinin kodların yapılışını incelemek için [.NET Core Archive](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M) serisine bakabilirsiniz.
 
-Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
+ :dizzy: Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
 
 [![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=.NetCorePractices)](https://github.com/zeynepaslierhan/.NetCorePractices)
 
@@ -26,30 +26,30 @@ Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
 
 ### Back End İşlemleri
 
-1.  [ Kimlik Doğrulama (Authentication) işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
+1.  [ :computer: Kimlik Doğrulama (Authentication) işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
 
-	- [x]  [Controller Seviyesinde Login İşlemi](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication/LoginController)
-	- [ ] Identity Kütüphanesi ile Login İşlemi 
+	- [x]  [Controller Seviyesinde Login İşlemi :clapper:](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication/LoginController)
+	- [ ] Identity Kütüphanesi ile Login İşlemi :clapper: 
 
   > Bu kısımda giriş ve çıkış yapma (Login-Signin/LogOut-SignOut) ve giriş yapan kişinin bilgilerinin yansıtılması işlemleri vardır.
 
-2. [ PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews/PartialViewPractices)
+2. [ :computer: PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews/PartialViewPractices)
 
-	 - [x] [PartialView oluşturma](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
-	 - [ ] PartialView kullanımı örnekleri 
+	 - [x] [PartialView oluşturma :clapper:](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] PartialView kullanımı örnekleri :clapper:
 	
   > Bu kısımda PartialView oluşturma ve partialView'lar ile yapılabilecek işlemler vardır. 
 
-3. [ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents/ViewComponentPractices)
+3. [ :computer: ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents/ViewComponentPractices)
 
-	 - [x] [ViewComponent oluşturma ](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
-	 - [ ] ViewComponent kullanımı örnekleri
+	 - [x] [ViewComponent oluşturma :clapper: ](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] ViewComponent kullanımı örnekleri :clapper:
 	
   > Bu kısımda ViewComponent oluşturma ve ViewComponent ile yapılabilecek işlemler vardır.
 
 ### Veritabanı İşlemleri
 
-1. EntityFramework işlemleri 
+1. :computer: EntityFramework işlemleri 
 	
 
 ### Front End İşlemleri
@@ -64,7 +64,7 @@ Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
 
 <img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Kaynak%C3%A7a.gif" align="right">
 
-## Kaynakça
+## Kaynakça :card_file_box:
 
 1. [Gençay Yıldız, Youtube Serileri](https://www.youtube.com/playlist?list=PLQVXoXFVVtp33KHoTkWklAo72l5bcjPVL)
 2. [Kenan Yıldırım, Youtube Serileri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp)
@@ -72,9 +72,10 @@ Burada gösterilen uygulamaları kullandığım projeleri incelemek için:
 
 
 ---
-## İletişim
+## İletişim :telephone_receiver:
 
-:fa-envelope-o:  softwaredeveloperarchive@gmail.com
-:fa-instagram: [@softwaredeveloperarchive](https://www.instagram.com/softwaredeveloperarchive/)
+:e-mail:  softwaredeveloperarchive@gmail.com
+
+:iphone: [@softwaredeveloperarchive](https://www.instagram.com/softwaredeveloperarchive/)
 
 
