@@ -12,7 +12,7 @@
 
 ## İçindekiler
 
-1. [Controller Seviyesinde Login İşlemi](https://github.com/zeynepaslierhan/.NetCoreArchive/edit/main/Authentication/README.md#controller-seviyesinde-login-i%CC%87%C5%9Flemi)
+1. [Controller Seviyesinde Login İşlemi](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication#controller-seviyesinde-login-i%CC%87%C5%9Flemi)
 
 2. Identity Kütüphanesi ile Login İşlemi (***Yakında...***)
 
