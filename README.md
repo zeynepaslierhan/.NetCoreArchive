@@ -18,9 +18,19 @@
 
 [![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=.NetCorePractices)](https://github.com/zeynepaslierhan/.NetCorePractices)
 
-
-
 ---
+<a href="https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Entity%20Framework%20Practices.jpg" align="left" height="75"> </a>
+
+<a href="https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/PartialView%20Practices.jpg" align="left" height="75"> </a>
+
+<a href="https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=1"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/ViewComponent%20Practices.jpg" align="left" height="75"></a>
+
+<a href="https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Authentication%20Practices.jpg" align="left" height="75"> </a>
+
+
+</br>
+</br>
+</br>
 
 ## .Net Core Archive İçeriği
 
@@ -28,7 +38,7 @@
 
 1.  [ :computer: Kimlik Doğrulama (Authentication) işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
 
-	- [x]  [Controller Seviyesinde Login İşlemi :clapper:](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication/LoginController)
+	- [x]  [Controller Seviyesinde Login İşlemi :clapper:](https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB)
 	- [ ] Identity Kütüphanesi ile Login İşlemi :clapper: 
 
   > Bu kısımda giriş ve çıkış yapma (Login-Signin/LogOut-SignOut) ve giriş yapan kişinin bilgilerinin yansıtılması işlemleri vardır.
