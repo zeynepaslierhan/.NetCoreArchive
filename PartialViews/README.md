@@ -13,7 +13,7 @@
 
 ## İçindekiler
 
-1. [PartialView oluşturma](https://github.com/zeynepaslierhan/.NetCoreArchive/edit/main/PartialViews/README.md#partialview-olu%C5%9Fturma)
+1. [PartialView oluşturma](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews#-partialview-olu%C5%9Fturma)
 
 2. PartialView kullanımı örnekleri (***Yakında...***)
 
