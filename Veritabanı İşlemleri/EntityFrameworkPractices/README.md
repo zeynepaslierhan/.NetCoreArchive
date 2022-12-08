@@ -20,7 +20,7 @@
 
 ## İçindekiler
 
-1. [Veritabanına bağlanma ve Migration işlemleri]()
+1. [Veritabanına bağlanma ve Migration işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Veritaban%C4%B1%20%C4%B0%C5%9Flemleri/EntityFrameworkPractices#-veritaban%C4%B1na-ba%C4%9Flanma-ve-migration-i%C5%9Flemleri)
 
 2. Linq kullanımı örnekleri (***Yakında...***)
 
