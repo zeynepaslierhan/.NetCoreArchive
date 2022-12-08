@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
   Authentication İşlemleri
   <br>
@@ -8,7 +8,7 @@
 
 .Net Core Projelerinde kullanılan Authentication işlemleri için oluşturulmuş bir bölümdür.
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/gifs/developer.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/developer.gif" align="right">
 
 ## İçindekiler
 
@@ -106,6 +106,9 @@
   
   > :dizzy: Burada gösterilen uygulamaları kullandığım projeleri incelemek için: [.NetCorePractices](https://github.com/zeynepaslierhan/.NetCorePractices) projelerini inceleyebilirsiniz.
 
+---
+
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/Yorumlar%C4%B1Okuyorumdur.gif" align="left" height="150">
 
 
 ## İletişim :telephone_receiver:
