@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
   PartialView Practices
   <br>
 </h1>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/gifs/computer.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BuKadarSakin%C3%87al%C4%B1%C5%9Fm%C4%B1yorum.gif" align="right">
 
 
 .Net Core projelerinde kullanılan PartialView işlemleri için oluşturulmuş bir bölümdür.
@@ -47,6 +47,10 @@
 
   > :dizzy: Burada gösterilen uygulamaları kullandığım projeleri incelemek için: [.NetCorePractices](https://github.com/zeynepaslierhan/.NetCorePractices) projelerini inceleyebilirsiniz.
 
+
+---
+
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/Yorumlar%C4%B1Okuyorumdur.gif" align="left" height="150">
 
 
 ## İletişim :telephone_receiver:
