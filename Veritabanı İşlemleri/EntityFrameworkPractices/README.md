@@ -28,6 +28,47 @@
 
 ## 💻 Veritabanına bağlanma ve Migration işlemleri 
 
+MSSQL veritabanı işlemleri yapılmak için aşağıdaki aşamalar takip edilmiştir. Bu bir Code First projesidir. Dolayısıyla aşağıdaki aşamalardan göreceğiniz üzere veritabanı mimarisi .Net Core porjesinin içerisindeki kodlarla sağlanmaktadır.
+
+İsterseniz aşağıdaki aşamaları takip ederek ya da [kanalımdaki videosunu izleyerek 🎬](https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=5&ab_channel=SoftwareDeveloperArchive) veritabanına bağlanma ve Migration işlemlerini yapabilirsiniz.
+
+:pushpin: İlk olarak Entity Framework için gerekli nuget paketler indirilmelidir. 
+
+(.Net Core 5.0 versiyonu kullandığım için nuget paketleri 5.0.9 versiyonunda indirdim.)
+
+* Microsoft.EntityFrameworkCore 
+* Microsoft.EntityFrameworkCore.Design
+* Microsoft.EntityFrameworkCore.SqlServer
+* Microsoft.EntityFrameworkCore.Tools
+
+> Nuget paketler nadiren bağımsız bir şekilde çalışırlar. Genellikle bağımlı oldukları başka paketlerde vardır. Bu yüzden Microsoft.EntityFrameworkCore,paketinin yanında diğer 3 paketler daha indirilmelidir.
+
+:pushpin: Context isminde bir class oluşturulup DbContext'den miras alınır. 
+
+> Kodun okunurluğunu arttırmak için Context.cs dosyası olarak ayrı bir sınıf(class) oluşturulması daha dogrudur. Kodun daha düzgün çalışmasını sağlamaz sadece prensiplere uyması ve temiz kod oluşması açısından önemlidir.
+
+:pushpin: Context sınıfı içerisinde OnConfiguring methodu override edilir. Bu method sayesinde Mssql server için gerekli bağlantı dizisi *(string)* eklenir.
+
+```C#
+
+  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+  {
+    optionsBuilder.UseSqlServer("server=.; database=EntityFrameworkPractices1;integrated security=true");
+  }
+
+```
+
+> override anahtar sözcüğü, temel sınıftaki methodu geçersiz kılıp bu sınıfa göre hareket ettirtir. [ :bookmark_tabs: *Override ve nesneye yönelik programlamanın diğer konuları için instagramdaki NYP notlarımı takip edebilirsiniz...*](https://www.instagram.com/softwaredeveloperarchive/guide/nesneye-y-nelik-programlama-ve-net-core/17999316274518932/)
+
+:pushpin: Projede istenilen modelin *(varlık, entity)*, veritabanında tablosunu oluşturmak için Context sınıfı içerisinde `DbSet<T>` kullanılır.
+
+```C#
+
+public DbSet<*Model.ismi*> *Tablo.ismi* { get; set; }
+
+```
+
+:pushpin: Migration eklemek için package console manager açılıp `ad-migration *Migration.ismi*` yazılır. Yapılan migration işleminin veritabanına yansıması için tekrar package console manager'a `update-database` yazılır.
 
 </br>
 
