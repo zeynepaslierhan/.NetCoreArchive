@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
   ViewComponent Practices
   <br>
 </h1>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Kaynak%C3%A7a.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/%C4%B0%C5%9FimBittiSanm%C4%B1%C5%9F%C4%B1md%C4%B1r.gif" align="right">
 
 .Net Core projelerinde kullanılan ViewComponent işlemleri için oluşturulmuş bir bölümdür.
 
@@ -44,7 +44,9 @@
   
 > :dizzy: Burada gösterilen uygulamaları kullandığım projeleri incelemek için: [.NetCorePractices](https://github.com/zeynepaslierhan/.NetCorePractices) projelerini inceleyebilirsiniz.
 
+---
 
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/Yorumlar%C4%B1Okuyorumdur.gif" align="left" height="150">
 
 ## İletişim :telephone_receiver:
 
