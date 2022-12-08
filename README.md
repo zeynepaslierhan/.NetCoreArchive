@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
   . Net Core Archive
   <br>
 </h1>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Giri%C5%9F.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right">
 
 .Net Core Archive serisinde .Net sitelerinde kullandığım veya kullanabileceğim her türlü kod bloğunu, methodu, fonksiyonu en basit ve saf halleriyle bulabilirsiniz. 
 
@@ -66,7 +66,7 @@
 
 ### Front End İşlemleri
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/exploding-head-laptop-computers.gif" align="left" height="75">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/%C4%B0%C3%A7erikYeti%C5%9FtirirkenBen.gif" align="left" height="75">
 
 *Yakında..* 
 
@@ -74,7 +74,7 @@
 </br>
 </br>
 
-<img src="https://github.com/zeynepaslierhan/.NetCoreArchive/blob/main/img/Readme/Kaynak%C3%A7a.gif" align="right">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/%C4%B0%C5%9FimBittiSanm%C4%B1%C5%9F%C4%B1md%C4%B1r.gif" align="right">
 
 ## Kaynakça :card_file_box:
 
