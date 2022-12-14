@@ -36,33 +36,33 @@
 
 ### Back End İşlemleri
 
-1.  [ :computer: Kimlik Doğrulama (Authentication) işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
+1.  [Kimlik Doğrulama (Authentication) işlemleri, :computer: *kodlar*...](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Authentication)
 
-	- [x]  [Controller Seviyesinde Login İşlemi :clapper:](https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB)
-	- [ ] Identity Kütüphanesi ile Login İşlemi :clapper: 
+	- [x]  [Controller Seviyesinde Login İşlemi, :clapper: *video*](https://www.youtube.com/watch?v=S1p0lEaLXnU&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=4&pp=sAQB)
+	- [ ] Identity Kütüphanesi ile Login İşlemi, :clapper: *video* 
 
   > Bu kısımda giriş ve çıkış yapma (Login-Signin/LogOut-SignOut) ve giriş yapan kişinin bilgilerinin yansıtılması işlemleri vardır.
 
-2. [ :computer: PartialView işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews)
+2. [PartialView işlemleri, :computer: *kodlar*...](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/PartialViews)
 
-	 - [x] [PartialView oluşturma :clapper:](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
-	 - [ ] PartialView kullanımı örnekleri :clapper:
+	 - [x] [PartialView oluşturma, :clapper: *video*](https://www.youtube.com/watch?v=XGUQSzAj4DE&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=2&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] PartialView kullanımı örnekleri, :clapper: *video*
 	
   > Bu kısımda PartialView oluşturma ve partialView'lar ile yapılabilecek işlemler vardır. 
 
-3. [ :computer: ViewComponent işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents)
+3. [ViewComponent işlemleri, :computer: *kodlar*...](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/ViewComponents)
 
-	 - [x] [ViewComponent oluşturma :clapper: ](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
-	 - [ ] ViewComponent kullanımı örnekleri :clapper:
+	 - [x] [ViewComponent oluşturma, :clapper: *video*](https://www.youtube.com/watch?v=t5fEB9ulkEw&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&ab_channel=SoftwareDeveloperArchive)
+	 - [ ] ViewComponent kullanımı örnekleri, :clapper: *video*
 	
   > Bu kısımda ViewComponent oluşturma ve ViewComponent ile yapılabilecek işlemler vardır.
 
 ### Veritabanı İşlemleri
 
-1. :computer: [EntityFramework işlemleri](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Veritaban%C4%B1%20%C4%B0%C5%9Flemleri/EntityFrameworkPractices)
+1. [EntityFramework işlemleri, :computer: *kodlar*...](https://github.com/zeynepaslierhan/.NetCoreArchive/tree/main/Veritaban%C4%B1%20%C4%B0%C5%9Flemleri/EntityFrameworkPractices)
 	
-	 - [x] [Veritabanına bağlanma ve Migration işlemleri :clapper: ](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3)
-	 - [ ] Linq kullanımı örnekleri :clapper:
+	 - [x] [Veritabanına bağlanma ve Migration işlemleri, :clapper: *video*](https://www.youtube.com/watch?v=cPpfsINyRCs&list=PLjMBQHLzNCzZ7nADOe8ZYej602FbID13M&index=3)
+	 - [ ] Linq kullanımı örnekleri, :clapper: *video*
 
 ### Front End İşlemleri
 
